@@ -23,6 +23,7 @@ debug.log
 
 # Large novel files (TXT)
 *.txt
+!requirements.txt
 
 # Executables
 *.exe
