@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
+
+# Novel Reader specific
+.reader_cache/
+reader_config.json
+chapters/
+temp_*/
+debug.log
+
+# Large novel files (TXT)
+*.txt
+
+# Executables
+*.exe
